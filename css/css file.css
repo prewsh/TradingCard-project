@@ -1,12 +1,12 @@
 body{
    /* background-color: burlywood */
-   background-image: url(/materials/background\ dog.jpg);
+   background-image: url("../materials/bgdog.jpg");
    background-size: cover;
    height: 100%;
    overflow: hidden;
 }
 .cardBackground{
-    background: linear-gradient(rgb(0, 0, 0, 0.7), rgb(0, 0, 0, 0.7)), url(/materials/animal2.jpg);
+    background: linear-gradient(rgb(0, 0, 0, 0.7), rgb(0, 0, 0, 0.7)), url("../materials/animal2.jpg");
     background-size: cover;
     height: 598px;
     width: 330px;
